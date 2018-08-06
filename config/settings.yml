@@ -1,0 +1,4 @@
+plugins:
+  saml_auto_login_enabled:
+    default: true
+    client: true

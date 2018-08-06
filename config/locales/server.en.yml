@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    saml_auto_login_enabled: "Enable SAML auto login?"
